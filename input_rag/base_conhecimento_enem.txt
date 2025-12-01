@@ -1,0 +1,150 @@
+--- PERFIL DO ESTUDANTE (ID Cluster: 0) ---
+Desempenho Acadêmico: Redação 940.0, Matemática 831.5, Natureza 635.7, Humanas 599.2, Linguagens 637.3.
+Instituição de Ensino: Escola Privada.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou a Pós-graduação. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou a Faculdade, mas não completou a Pós-graduação. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 5: Médico, engenheiro, advogado, diretor, oficial militar, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 5: Médica, engenheira, advogada, diretora, oficial militar, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 13.200,01 até R$ 15.840,00. | Q022 (Na sua residência tem telefone celular?): Sim, quatro ou mais | Q024 (Na sua residência tem computador?): Sim, dois | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 0) ---
+Desempenho Acadêmico: Redação 840.0, Matemática 649.0, Natureza 536.1, Humanas 584.4, Linguagens 565.2.
+Instituição de Ensino: Escola Privada.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou o Ensino Médio, mas não completou a Faculdade. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou a Faculdade, mas não completou a Pós-graduação. | Q003 (Grupo de ocupação do pai/responsável masculino.): Não sei. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 2: Diarista, empregada doméstica, porteira, cozinheira, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 3.960,01 até R$ 5.280,00. | Q022 (Na sua residência tem telefone celular?): Sim, três | Q024 (Na sua residência tem computador?): Sim, três | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 0) ---
+Desempenho Acadêmico: Redação 520.0, Matemática 686.2, Natureza 589.1, Humanas 554.7, Linguagens 616.7.
+Instituição de Ensino: Escola Privada.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou o Ensino Médio, mas não completou a Faculdade. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou a Pós-graduação. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 4: Professor, técnico, policial, pequeno comerciante, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 5: Médica, engenheira, advogada, diretora, oficial militar, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 7.920,01 até R$ 9.240,00. | Q022 (Na sua residência tem telefone celular?): Sim, quatro ou mais | Q024 (Na sua residência tem computador?): Sim, quatro ou mais | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 0) ---
+Desempenho Acadêmico: Redação 760.0, Matemática 588.3, Natureza 430.5, Humanas 503.5, Linguagens 501.3.
+Instituição de Ensino: Escola Privada.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou a Pós-graduação. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou a Faculdade, mas não completou a Pós-graduação. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 5: Médico, engenheiro, advogado, diretor, oficial militar, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 4: Professora, técnica, policial, pequena comerciante, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 6.600,01 até R$ 7.920,00. | Q022 (Na sua residência tem telefone celular?): Sim, quatro ou mais | Q024 (Na sua residência tem computador?): Sim, três | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 0) ---
+Desempenho Acadêmico: Redação 760.0, Matemática 876.4, Natureza 671.5, Humanas 662.5, Linguagens 643.2.
+Instituição de Ensino: Escola Privada.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou o Ensino Médio, mas não completou a Faculdade. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou a Faculdade, mas não completou a Pós-graduação. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 5: Médico, engenheiro, advogado, diretor, oficial militar, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 4: Professora, técnica, policial, pequena comerciante, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 3.960,01 até R$ 5.280,00. | Q022 (Na sua residência tem telefone celular?): Sim, quatro ou mais | Q024 (Na sua residência tem computador?): Sim, quatro ou mais | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 0) ---
+Desempenho Acadêmico: Redação 800.0, Matemática 776.0, Natureza 599.4, Humanas 645.6, Linguagens 630.9.
+Instituição de Ensino: Escola Privada.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou a Pós-graduação. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou a Pós-graduação. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 4: Professor, técnico, policial, pequeno comerciante, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 5: Médica, engenheira, advogada, diretora, oficial militar, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 13.200,01 até R$ 15.840,00. | Q022 (Na sua residência tem telefone celular?): Sim, quatro ou mais | Q024 (Na sua residência tem computador?): Sim, dois | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 0) ---
+Desempenho Acadêmico: Redação 500.0, Matemática 651.5, Natureza 427.2, Humanas 558.9, Linguagens 570.4.
+Instituição de Ensino: Escola Privada.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou a Faculdade, mas não completou a Pós-graduação. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou a Pós-graduação. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 4: Professor, técnico, policial, pequeno comerciante, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 5: Médica, engenheira, advogada, diretora, oficial militar, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 5.280,01 até R$ 6.600,00. | Q022 (Na sua residência tem telefone celular?): Sim, três | Q024 (Na sua residência tem computador?): Sim, três | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 0) ---
+Desempenho Acadêmico: Redação 860.0, Matemática 705.0, Natureza 591.0, Humanas 599.2, Linguagens 587.4.
+Instituição de Ensino: Escola Privada.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou a Pós-graduação. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou a Pós-graduação. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 5: Médico, engenheiro, advogado, diretor, oficial militar, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 5: Médica, engenheira, advogada, diretora, oficial militar, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 19.800,01 até R$ 26.400,00. | Q022 (Na sua residência tem telefone celular?): Sim, quatro ou mais | Q024 (Na sua residência tem computador?): Sim, quatro ou mais | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 0) ---
+Desempenho Acadêmico: Redação 920.0, Matemática 649.4, Natureza 540.0, Humanas 536.3, Linguagens 546.0.
+Instituição de Ensino: Escola Privada.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou a Pós-graduação. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou a Pós-graduação. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 5: Médico, engenheiro, advogado, diretor, oficial militar, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 4: Professora, técnica, policial, pequena comerciante, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 6.600,01 até R$ 7.920,00. | Q022 (Na sua residência tem telefone celular?): Sim, quatro ou mais | Q024 (Na sua residência tem computador?): Sim, dois | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 0) ---
+Desempenho Acadêmico: Redação 620.0, Matemática 714.9, Natureza 508.2, Humanas 583.2, Linguagens 580.7.
+Instituição de Ensino: Escola Privada.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou a Pós-graduação. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou a Pós-graduação. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 5: Médico, engenheiro, advogado, diretor, oficial militar, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 5: Médica, engenheira, advogada, diretora, oficial militar, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 19.800,01 até R$ 26.400,00. | Q022 (Na sua residência tem telefone celular?): Sim, quatro ou mais | Q024 (Na sua residência tem computador?): Sim, quatro ou mais | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 1) ---
+Desempenho Acadêmico: Redação 900.0, Matemática 740.6, Natureza 516.0, Humanas 587.3, Linguagens 588.3.
+Instituição de Ensino: Escola Privada.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou o Ensino Médio, mas não completou a Faculdade. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou o Ensino Médio, mas não completou a Faculdade. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 4: Professor, técnico, policial, pequeno comerciante, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 4: Professora, técnica, policial, pequena comerciante, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 3.960,01 até R$ 5.280,00. | Q022 (Na sua residência tem telefone celular?): Sim, três | Q024 (Na sua residência tem computador?): Sim, um | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 1) ---
+Desempenho Acadêmico: Redação 660.0, Matemática 555.9, Natureza 487.4, Humanas 548.8, Linguagens 523.4.
+Instituição de Ensino: Escola Pública.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou a 4ª série/5º ano, mas não completou a 8ª série/9º ano do Ensino Fundamental. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou o Ensino Médio, mas não completou a Faculdade. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 3: Padeiro, pedreiro, mecânico, motorista, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 4: Professora, técnica, policial, pequena comerciante, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 3.960,01 até R$ 5.280,00. | Q022 (Na sua residência tem telefone celular?): Sim, quatro ou mais | Q024 (Na sua residência tem computador?): Sim, um | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 1) ---
+Desempenho Acadêmico: Redação 620.0, Matemática 629.3, Natureza 600.7, Humanas 573.3, Linguagens 577.9.
+Instituição de Ensino: Escola Pública.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Não sei. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou o Ensino Médio, mas não completou a Faculdade. | Q003 (Grupo de ocupação do pai/responsável masculino.): Não sei. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 4: Professora, técnica, policial, pequena comerciante, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 3.300,01 até R$ 3.960,00. | Q022 (Na sua residência tem telefone celular?): Sim, quatro ou mais | Q024 (Na sua residência tem computador?): Não | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 1) ---
+Desempenho Acadêmico: Redação 900.0, Matemática 590.5, Natureza 557.2, Humanas 563.6, Linguagens 467.8.
+Instituição de Ensino: Escola Privada.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou o Ensino Médio, mas não completou a Faculdade. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou a Pós-graduação. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 3: Padeiro, pedreiro, mecânico, motorista, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 4: Professora, técnica, policial, pequena comerciante, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 2.640,01 até R$ 3.300,00. | Q022 (Na sua residência tem telefone celular?): Sim, dois | Q024 (Na sua residência tem computador?): Sim, um | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 1) ---
+Desempenho Acadêmico: Redação 760.0, Matemática 713.9, Natureza 618.7, Humanas 665.7, Linguagens 684.4.
+Instituição de Ensino: Escola Privada.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou o Ensino Médio, mas não completou a Faculdade. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Não completou a 4ª série/5º ano do Ensino Fundamental. | Q003 (Grupo de ocupação do pai/responsável masculino.): Não sei. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 2: Diarista, empregada doméstica, porteira, cozinheira, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 5.280,01 até R$ 6.600,00. | Q022 (Na sua residência tem telefone celular?): Sim, três | Q024 (Na sua residência tem computador?): Sim, dois | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 1) ---
+Desempenho Acadêmico: Redação 700.0, Matemática 506.5, Natureza 559.1, Humanas 699.3, Linguagens 566.2.
+Instituição de Ensino: Escola Pública.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Não sei. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou o Ensino Médio, mas não completou a Faculdade. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 2: Diarista, empregado doméstico, porteiro, cozinheiro, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 2: Diarista, empregada doméstica, porteira, cozinheira, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 7.920,01 até R$ 9.240,00. | Q022 (Na sua residência tem telefone celular?): Sim, quatro ou mais | Q024 (Na sua residência tem computador?): Sim, dois | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 1) ---
+Desempenho Acadêmico: Redação 360.0, Matemática 652.4, Natureza 563.0, Humanas 564.7, Linguagens 532.5.
+Instituição de Ensino: Escola Privada.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou a 4ª série/5º ano, mas não completou a 8ª série/9º ano do Ensino Fundamental. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou o Ensino Médio, mas não completou a Faculdade. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 4: Professor, técnico, policial, pequeno comerciante, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 4: Professora, técnica, policial, pequena comerciante, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 3.960,01 até R$ 5.280,00. | Q022 (Na sua residência tem telefone celular?): Sim, três | Q024 (Na sua residência tem computador?): Sim, um | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 1) ---
+Desempenho Acadêmico: Redação 500.0, Matemática 514.5, Natureza 381.2, Humanas 485.3, Linguagens 494.9.
+Instituição de Ensino: Escola Privada.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou o Ensino Médio, mas não completou a Faculdade. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou a Pós-graduação. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 2: Diarista, empregado doméstico, porteiro, cozinheiro, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 5: Médica, engenheira, advogada, diretora, oficial militar, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 3.960,01 até R$ 5.280,00. | Q022 (Na sua residência tem telefone celular?): Sim, dois | Q024 (Na sua residência tem computador?): Sim, um | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 1) ---
+Desempenho Acadêmico: Redação 560.0, Matemática 564.8, Natureza 523.8, Humanas 591.1, Linguagens 607.4.
+Instituição de Ensino: Escola Pública.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou a Pós-graduação. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou a Pós-graduação. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 4: Professor, técnico, policial, pequeno comerciante, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 4: Professora, técnica, policial, pequena comerciante, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 5.280,01 até R$ 6.600,00. | Q022 (Na sua residência tem telefone celular?): Sim, quatro ou mais | Q024 (Na sua residência tem computador?): Sim, quatro ou mais | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 1) ---
+Desempenho Acadêmico: Redação 720.0, Matemática 573.7, Natureza 604.3, Humanas 579.3, Linguagens 557.7.
+Instituição de Ensino: Escola Privada.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou a Faculdade, mas não completou a Pós-graduação. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou a Pós-graduação. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 4: Professor, técnico, policial, pequeno comerciante, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 4: Professora, técnica, policial, pequena comerciante, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 11.880,01 até R$ 13.200,00. | Q022 (Na sua residência tem telefone celular?): Sim, três | Q024 (Na sua residência tem computador?): Sim, um | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 2) ---
+Desempenho Acadêmico: Redação 860.0, Matemática 483.7, Natureza 586.9, Humanas 629.2, Linguagens 558.5.
+Instituição de Ensino: Escola Pública.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Não sei. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou a 4ª série/5º ano, mas não completou a 8ª série/9º ano do Ensino Fundamental. | Q003 (Grupo de ocupação do pai/responsável masculino.): Não sei. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 2: Diarista, empregada doméstica, porteira, cozinheira, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): Até R$ 1.320,00. | Q022 (Na sua residência tem telefone celular?): Sim, três | Q024 (Na sua residência tem computador?): Sim, um | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 2) ---
+Desempenho Acadêmico: Redação 600.0, Matemática 544.6, Natureza 521.5, Humanas 583.4, Linguagens 578.5.
+Instituição de Ensino: Escola Pública.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Não completou a 4ª série/5º ano do Ensino Fundamental. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou a 8ª série/9º ano do Ensino Fundamental, mas não completou o Ensino Médio. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 1: Lavrador, agricultor, pescador, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 1: Lavradora, agricultora, pescadora, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): Até R$ 1.320,00. | Q022 (Na sua residência tem telefone celular?): Sim, um | Q024 (Na sua residência tem computador?): Não | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 2) ---
+Desempenho Acadêmico: Redação 480.0, Matemática 391.1, Natureza 390.5, Humanas 496.4, Linguagens 470.5.
+Instituição de Ensino: Escola Pública.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou a Faculdade, mas não completou a Pós-graduação. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou a 8ª série/9º ano do Ensino Fundamental, mas não completou o Ensino Médio. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 2: Diarista, empregado doméstico, porteiro, cozinheiro, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 2: Diarista, empregada doméstica, porteira, cozinheira, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): Até R$ 1.320,00. | Q022 (Na sua residência tem telefone celular?): Sim, três | Q024 (Na sua residência tem computador?): Não | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 2) ---
+Desempenho Acadêmico: Redação 520.0, Matemática 490.4, Natureza 429.3, Humanas 478.3, Linguagens 470.0.
+Instituição de Ensino: Escola Pública.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou a 8ª série/9º ano do Ensino Fundamental, mas não completou o Ensino Médio. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou o Ensino Médio, mas não completou a Faculdade. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 4: Professor, técnico, policial, pequeno comerciante, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 4: Professora, técnica, policial, pequena comerciante, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 3.960,01 até R$ 5.280,00. | Q022 (Na sua residência tem telefone celular?): Sim, três | Q024 (Na sua residência tem computador?): Não | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 2) ---
+Desempenho Acadêmico: Redação 740.0, Matemática 602.4, Natureza 487.2, Humanas 480.4, Linguagens 580.5.
+Instituição de Ensino: Escola Pública.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou o Ensino Médio, mas não completou a Faculdade. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou o Ensino Médio, mas não completou a Faculdade. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 3: Padeiro, pedreiro, mecânico, motorista, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 4: Professora, técnica, policial, pequena comerciante, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 3.300,01 até R$ 3.960,00. | Q022 (Na sua residência tem telefone celular?): Sim, dois | Q024 (Na sua residência tem computador?): Sim, um | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 2) ---
+Desempenho Acadêmico: Redação 680.0, Matemática 337.4, Natureza 465.5, Humanas 469.4, Linguagens 440.5.
+Instituição de Ensino: Escola Pública.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou o Ensino Médio, mas não completou a Faculdade. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou o Ensino Médio, mas não completou a Faculdade. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 2: Diarista, empregado doméstico, porteiro, cozinheiro, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 2: Diarista, empregada doméstica, porteira, cozinheira, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 1.320,01 até R$ 1.980,00. | Q022 (Na sua residência tem telefone celular?): Sim, três | Q024 (Na sua residência tem computador?): Não | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 2) ---
+Desempenho Acadêmico: Redação 800.0, Matemática 467.9, Natureza 475.5, Humanas 531.4, Linguagens 530.2.
+Instituição de Ensino: Escola Pública.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou a 8ª série/9º ano do Ensino Fundamental, mas não completou o Ensino Médio. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou o Ensino Médio, mas não completou a Faculdade. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 3: Padeiro, pedreiro, mecânico, motorista, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 2: Diarista, empregada doméstica, porteira, cozinheira, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 1.320,01 até R$ 1.980,00. | Q022 (Na sua residência tem telefone celular?): Sim, três | Q024 (Na sua residência tem computador?): Sim, um | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 2) ---
+Desempenho Acadêmico: Redação 700.0, Matemática 409.7, Natureza 330.3, Humanas 491.6, Linguagens 432.7.
+Instituição de Ensino: Escola Pública.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Não completou a 4ª série/5º ano do Ensino Fundamental. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou o Ensino Médio, mas não completou a Faculdade. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 3: Padeiro, pedreiro, mecânico, motorista, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 2: Diarista, empregada doméstica, porteira, cozinheira, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): Até R$ 1.320,00. | Q022 (Na sua residência tem telefone celular?): Sim, três | Q024 (Na sua residência tem computador?): Não | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 2) ---
+Desempenho Acadêmico: Redação 480.0, Matemática 411.2, Natureza 418.6, Humanas 415.9, Linguagens 463.8.
+Instituição de Ensino: Escola Pública.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Completou o Ensino Médio, mas não completou a Faculdade. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Completou a 4ª série/5º ano, mas não completou a 8ª série/9º ano do Ensino Fundamental. | Q003 (Grupo de ocupação do pai/responsável masculino.): Grupo 3: Padeiro, pedreiro, mecânico, motorista, etc. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Grupo 2: Diarista, empregada doméstica, porteira, cozinheira, etc. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): De R$ 3.300,01 até R$ 3.960,00. | Q022 (Na sua residência tem telefone celular?): Sim, três | Q024 (Na sua residência tem computador?): Sim, um | Q025 (Na sua residência tem acesso à Internet?): Sim
+
+--- PERFIL DO ESTUDANTE (ID Cluster: 2) ---
+Desempenho Acadêmico: Redação 500.0, Matemática 368.4, Natureza 465.5, Humanas 457.5, Linguagens 483.5.
+Instituição de Ensino: Escola Pública.
+Contexto Socioeconômico: Q001 (Até que série seu pai, ou o homem responsável por você, estudou?): Não sei. | Q002 (Até que série sua mãe, ou a mulher responsável por você, estudou?): Não sei. | Q003 (Grupo de ocupação do pai/responsável masculino.): Não sei. | Q004 (Grupo de ocupação da mãe/responsável feminino.): Não sei. | Q006 (Qual é a renda mensal de sua família? (Valores estimados 2023)): Nenhuma renda. | Q022 (Na sua residência tem telefone celular?): Sim, três | Q024 (Na sua residência tem computador?): Não | Q025 (Na sua residência tem acesso à Internet?): Sim
+

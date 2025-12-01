@@ -1,0 +1,157 @@
+PROGRAMA: Pé-de-Meia
+Categoria: Auxílio financeiro para estudantes do ensino médio público.
+Descrição: Pagamento mensal para incentivar permanência escolar.
+Benefícios: R$ 200 mensais + bônus de R$ 1.000 ao final de cada ano aprovado.
+Público-alvo: Estudantes do ensino médio público.
+Critérios de elegibilidade: Idade entre 14 e 24 anos; família inscrita no CadÚnico; frequência mínima de 80%.
+Objetivo: Reduzir evasão escolar e incentivar conclusão do ensino médio.
+Palavras-chave: dinheiro para estudar, permanência escolar, auxílio econômico, baixa renda.
+
+PROGRAMA: Isenção da Taxa ENEM
+Categoria: Acesso gratuito à inscrição do ENEM.
+Público elegível: Estudantes do último ano do ensino médio público; quem concluiu o ensino médio público ou particular com bolsa integral; estudantes com renda familiar até 1,5 salário mínimo por pessoa; inscritos no CadÚnico.
+Regras adicionais: Se o candidato obteve isenção em ano anterior e faltou ao exame sem justificativa, deve apresentar Justificativa de Ausência para nova isenção.
+Objetivo: Eliminar barreiras financeiras de participação no ENEM.
+Palavras-chave: isenção ENEM, custo ENEM, taxa ENEM, baixa renda.
+
+PROGRAMA: SISU
+Categoria: Acesso à universidade pública através do ENEM.
+Benefício: Vaga gratuita em instituição pública de ensino superior.
+Critério principal: Nota do ENEM.
+Objetivo: Ingresso em universidades federais e estaduais.
+Palavras-chave: faculdade pública, universidade gratuita, ENEM, vaga pública.
+
+PROGRAMA: PROUNI
+Categoria: Bolsa de estudos em faculdades particulares.
+Benefícios: Bolsa de 50% ou 100% das mensalidades.
+Critérios para bolsa de 100%: Renda familiar de até 1,5 salário mínimo por pessoa.
+Objetivo: Democratizar acesso ao ensino superior privado.
+Palavras-chave: bolsa integral, faculdade particular, baixa renda.
+
+PROGRAMA: FIES / FIES Social
+Categoria: Empréstimo estudantil para ensino superior privado.
+Benefício: Financiamento parcial ou integral da mensalidade.
+Critério do FIES Social: Renda familiar de até 0,5 salário mínimo por pessoa e inscrição no CadÚnico.
+Pagamento: Após conclusão do curso.
+Palavras-chave: financiamento estudantil, empréstimo faculdade, baixa renda.
+
+PROGRAMA: Lei de Cotas (2024)
+Categoria: Política de reserva de vagas nas universidades federais.
+Regra principal: Candidatos cotistas concorrem primeiro na Ampla Concorrência; se a nota não for suficiente, disputam as vagas reservadas.
+Beneficiários: Estudantes que concluíram o ensino médio integralmente em escola pública. Subgrupos: baixa renda, pretos, pardos, indígenas, quilombolas, pessoas com deficiência.
+Objetivo: Reduzir desigualdades históricas no acesso ao ensino superior.
+Palavras-chave: cotas universitárias, inclusão social, escola pública.
+
+PROGRAMA: PNAES
+Categoria: Assistência estudantil para universitários federais.
+Benefícios possíveis: Auxílio moradia; restaurante universitário gratuito; auxílio transporte.
+Público-alvo: Estudantes de baixa renda matriculados em cursos presenciais em universidades federais.
+Canal de solicitação: Pró-Reitoria de Assuntos Estudantis (PRAE).
+Objetivo: Garantir condições de permanência e reduzir evasão no ensino superior.
+Palavras-chave: moradia estudantil, RU gratuito, permanência universitária.
+
+PROGRAMA: Bolsa Permanência MEC
+Categoria: Bolsa específica para indígenas e quilombolas no ensino superior.
+Benefícios: Valor diferenciado (geralmente superior a R$ 900 mensais).
+Público-alvo: Estudantes indígenas ou quilombolas matriculados em cursos presenciais.
+Objetivo: Reduzir abandono e garantir segurança socioeconômica no ensino superior.
+Palavras-chave: permanência indígena, permanência quilombola, vulnerabilidade social.
+
+PROGRAMA: ID Jovem
+Categoria: Benefícios em transporte interestadual.
+Benefícios: Viagens interestaduais gratuitas ou com 50% de desconto.
+Critérios: Idade entre 15 e 29 anos; renda familiar até 2 salários mínimos; inscrição no CadÚnico.
+Objetivo: Garantir mobilidade estudantil e acesso a oportunidades fora da cidade de origem.
+Palavras-chave: passagem gratuita, transporte para matrícula, baixa renda.
+
+PROGRAMA: Auxílio Permanência Estadual / Municipal
+Categoria: Apoio financeiro para estudantes universitários de baixa renda.
+Descrição: Diversos estados e municípios oferecem auxílios financeiros próprios para permanência de estudantes no ensino superior.
+Benefícios: Pagamento mensal para custear moradia, alimentação e transporte.
+Público-alvo: Estudantes matriculados em universidades públicas estaduais ou municipais de baixa renda.
+Observação: Disponibilidade depende do estado/município.
+Palavras-chave: permanência estadual, permanência municipal, auxílio financeiro, baixa renda.
+
+PROGRAMA: Bolsa Atleta Estudantil
+Categoria: Incentivo ao esporte escolar e universitário.
+Benefícios: Auxílio financeiro mensal para estudantes que competem em modalidades oficiais.
+Público-alvo: Estudantes com participação em competições esportivas reconhecidas.
+Objetivo: Promover esporte competitivo e garantir permanência de atletas na escola/universidade.
+Palavras-chave: atleta, esporte, bolsa esportiva, permanência esportiva.
+
+PROGRAMA: PIBIC Ensino Médio
+Categoria: Bolsa para iniciação científica.
+Benefícios: Bolsa mensal para estudantes do ensino médio participarem de pesquisa científica.
+Público-alvo: Alunos da rede pública ou privada com orientação de pesquisador e projeto aprovado.
+Objetivo: Incentivar trajetória acadêmica e científica.
+Palavras-chave: iniciação científica, pesquisa, ciência, CNPq, carreira acadêmica.
+
+PROGRAMA: Jovem Aprendiz
+Categoria: Trabalho remunerado formal com proteção educacional.
+Benefícios: Salário, carteira assinada, auxílio de capacitação e jornada reduzida.
+Critérios: 14 a 24 anos; frequência escolar obrigatória.
+Objetivo: Garantir experiência profissional sem abandono escolar.
+Palavras-chave: primeiro emprego, baixa renda, salário, proteção trabalhista.
+
+PROGRAMA: Estágio Obrigatório Remunerado (Educação)
+Categoria: Estágio via prefeitura para estudantes do ensino médio e universitário.
+Benefícios: Bolsa mensal + auxílio transporte.
+Público-alvo: Estudantes de escolas públicas e universidades.
+Observação: Comum em Secretarias de Educação, Saúde e Administração.
+Palavras-chave: estágio, experiência profissional, remuneração.
+
+PROGRAMA: Auxílio Conectividade
+Categoria: Apoio digital para estudantes de baixa renda.
+Benefícios: Chip com internet móvel gratuita ou pacote de dados subsidiado.
+Público-alvo: Estudantes de escolas públicas ou universidades de baixa renda.
+Objetivo: Reduzir desigualdade digital e apoiar atividades online.
+Palavras-chave: internet gratuita, acesso digital, ensino remoto, inclusão digital.
+
+PROGRAMA: Vale-Livros / Editais de Material Didático
+Categoria: Financiamento de compra de livros e materiais acadêmicos.
+Benefícios: Crédito para compra de livros didáticos, técnicos ou universitários.
+Público-alvo: Estudantes de baixa renda matriculados em ensino superior.
+Objetivo: Reduzir reprovação associada ao custo de materiais.
+Palavras-chave: livros gratuitos, material acadêmico, permanência.
+
+PROGRAMA: Cursinho Pré-Vestibular Popular / Comunitário
+Categoria: Preparação gratuita ou de baixo custo para vestibulares e ENEM.
+Benefícios: Aulas presenciais/online; material didático; simulados.
+Público-alvo: Estudantes de baixa renda e egressos de escola pública.
+Objetivo: Aumentar aprovação no ENEM e vestibulares.
+Palavras-chave: pré-vestibular gratuito, ingresso na faculdade, cursinho comunitário.
+
+PROGRAMA: Apoio Psicológico Estudantil
+Categoria: Saúde mental para estudantes.
+Benefícios: Psicoterapia gratuita com psicólogos vinculados à universidade ou SUS.
+Público-alvo: Estudantes do ensino médio e universitário.
+Objetivo: Prevenir evasão relacionada à ansiedade, depressão e estresse acadêmico.
+Palavras-chave: saúde mental, psicoterapia, apoio emocional.
+
+PROGRAMA: Programa de Monitoria Acadêmica
+Categoria: Bolsas para estudantes de graduação ajudarem colegas em disciplinas.
+Benefícios: Bolsa mensal + experiência acadêmica.
+Público-alvo: Estudantes aprovados com alto rendimento em disciplinas específicas.
+Objetivo: Aumentar desempenho geral da turma e reduzir reprovação.
+Palavras-chave: monitoria, reforço acadêmico, aprendizagem, tutoria.
+
+PROGRAMA: Mobilidade Acadêmica (Intercâmbio Nacional)
+Categoria: Estudo temporário em outra universidade pública no Brasil.
+Benefícios: Matrícula garantida na instituição de destino; acesso a residência estudantil.
+Público-alvo: Estudantes de universidades públicas.
+Objetivo: Ampliar repertório acadêmico e reduzir desigualdade de oferta de cursos.
+Palavras-chave: intercâmbio, mobilidade nacional, residência estudantil.
+
+PROGRAMA: Mobilidade Internacional via CAPES / AUGM / ERASMUS
+Categoria: Intercâmbio internacional universitário com bolsas.
+Benefícios: Bolsa para moradia, alimentação e passagens aéreas; isenção de taxas na universidade destino.
+Público-alvo: Estudantes universitários com bom desempenho acadêmico e baixa renda.
+Objetivo: Democratizar acesso a experiências acadêmicas internacionais.
+Palavras-chave: intercâmbio internacional, CAPES, ERASMUS, AUGM.
+
+PROGRAMA: Rede Integrada de Oportunidades para Egressos
+Categoria: Apoio para alunos que se formam.
+Benefícios: Mentorias de carreira, preparação para mercado de trabalho, bolsas para pós-graduação.
+Público-alvo: Estudantes prestes a colar grau ou recém-formados.
+Objetivo: Reduzir desemprego juvenil após faculdade.
+Palavras-chave: primeiro emprego, carreira, pós-graduação, suporte egresso.
